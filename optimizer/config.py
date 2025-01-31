@@ -7,4 +7,4 @@ VEHICLE_RANGE = 500  # in miles
 FUEL_EFFICIENCY = 10  # miles per gallon
 MAX_DISTANCE_FROM_ROUTE = 50  # in miles
 
-ORS_DIRECTIONS_URL = "https://api.openrouteservice.org/v2/directions/driving-car"
+ORS_DIRECTIONS_URL = "https://api.openrouteservice.org/v2/directions/cycling-road"

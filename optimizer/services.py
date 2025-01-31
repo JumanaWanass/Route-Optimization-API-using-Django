@@ -1,5 +1,5 @@
 import requests
-import config
+from . import config
 
 ORS_DIRECTIONS_URL = config.ORS_DIRECTIONS_URL
 
